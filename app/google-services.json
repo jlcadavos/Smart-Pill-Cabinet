@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "862886715993",
+    "firebase_url": "https://medicine-box-f0f38-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "medicine-box-f0f38",
+    "storage_bucket": "medicine-box-f0f38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862886715993:android:052ebbf5ca0a528e4bc748",
+        "android_client_info": {
+          "package_name": "com.example.medicinebox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwNCtmgo8js91RB2c8y0GU4JhH08YC--0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

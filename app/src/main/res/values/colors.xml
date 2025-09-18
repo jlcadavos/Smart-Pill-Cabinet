@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="userPrimary">#00D9DD</color>
+    <color name="adminPrimary">#006D6F</color>
+    <color name="editTextBG">#E1FEFF</color>
+    <color name="red">#FF0000</color>
+    <color name="text_gray">#AAAAAA</color>
+    <color name="green">#36F181</color>
+
+</resources>
